@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nayun/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nayun/static/js/main.b936440f.chunk.js",
+    "main.js.map": "/nayun/static/js/main.b936440f.chunk.js.map",
+    "runtime-main.js": "/nayun/static/js/runtime-main.0e541084.js",
+    "runtime-main.js.map": "/nayun/static/js/runtime-main.0e541084.js.map",
+    "static/js/2.2ba19105.chunk.js": "/nayun/static/js/2.2ba19105.chunk.js",
+    "static/js/2.2ba19105.chunk.js.map": "/nayun/static/js/2.2ba19105.chunk.js.map",
+    "index.html": "/nayun/index.html",
+    "precache-manifest.72465a61ee3e0fe891c6713fd6bb3432.js": "/nayun/precache-manifest.72465a61ee3e0fe891c6713fd6bb3432.js",
+    "service-worker.js": "/nayun/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nayun/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2ba19105.chunk.js.LICENSE.txt": "/nayun/static/js/2.2ba19105.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nayun/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e541084.js",
+    "static/js/2.2ba19105.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b936440f.chunk.js"
+  ]
+}
